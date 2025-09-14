@@ -1,0 +1,35 @@
+.sidebar{
+  position:fixed;
+  top: 55px;
+  bottom:0;
+  left:0;
+  width:72px;
+  background-color: white;
+  z-index: 200;
+  padding-top: 5px;
+}
+.s-1{
+  height:74px;
+  display:flex;
+  justify-content:center;
+ align-items: center;
+  
+ flex-direction: column;
+  
+  
+}
+.s-1:hover{
+  background-color: rgb(193, 191, 191);
+}
+.home{
+  height:24px;
+  color: black;
+  margin-bottom: 5px;
+ 
+}
+.namee{
+  font-family: arial;
+  font-weight: bolder;
+  font-size:10px;
+  mar
+}
